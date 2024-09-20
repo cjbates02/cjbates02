@@ -7,8 +7,7 @@
 
 ## About Me
 
-I am a passionate software developer with a strong background in network automation and web development. Currently pursuing a degree in Management Information Systems with a minor in Computer Science, I have gained hands-on experience through internships and various projects. My goal is to leverage technology to solve real-world problems and empower teams through innovative solutions.
-
+I am a passionate software developer with a strong background in network automation and web development. Currently pursuing a degree in Management Information Systems with a minor in Computer Science, I have gained hands-on experience through internships and various projects. My objective is to identify opportunities in organizations to implement software driven soluions that save companies time and money.
 ---
 
 ## Work Experience
