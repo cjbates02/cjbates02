@@ -1,59 +1,91 @@
-# Christian Bates
+# Hi, I'm Christian Bates 👋
 
-[LinkedIn](https://www.linkedin.com/in/christianbates02/) | [GitHub](https://github.com/cjbates02)  
-📞 (518) 871-3802 | 📧 cbate001@plattsburgh.edu
+Currently building reliability and deployment tooling at FMX, a futures exchange, where I work on large-scale infrastructure automation, low-latency monitoring systems, and internal platforms that support critical business operations.
 
----
+## What I'm Working On
 
-## About Me
+* Infrastructure automation at scale
+* Systems programming with C and eBPF
+* Kubernetes and distributed systems
+* Observability and monitoring platforms
+* Open source technologies
+* Cybersecurity research and threat intelligence
 
-### I am a passionate software developer with a strong background in network automation and web development. Currently pursuing a degree in Management Information Systems with a minor in Computer Science, I have gained hands-on experience through internships and various projects. My objective is to identify opportunities in organizations to implement software driven soluions that save companies time and money.
----
+## Experience
 
-## Work Experience
+### FMX — Junior Site Reliability Engineer
 
-### Software Development Intern @ Cantor Fitzgerald
-**June 2024 - Present**
-- Developed a program that dynamically generates real-time network diagrams, providing a source of truth for network changes over time and reducing manual effort.
-- Built, tested, and deployed a desktop troubleshooting web app using JavaScript, Flask, Netmiko, Python, HTML, and CSS, enabling global infrastructure teams to troubleshoot network connectivity efficiently.
-- Created a command-line tool with Paramiko that scanned over 2000 network devices, leveraging an internal distributed API gateway for concurrent alerting.
+* Own the development and deployment of an enterprise-grade web application used across 10 production and non-production environments.
+* Built low-latency observability tooling using C and eBPF for business-critical trading infrastructure.
+* Automated provisioning and deployment workflows for 750+ servers and 4,000+ software instances, enabling complete environment recreation in under two hours.
 
-### Information Technology Intern @ Ballston Spa National Bank
-**May 2023 - Jan 2024**
-- Configured and deployed UPS network cards for management and monitoring through SNMP software.
-- Developed an interactive IT roadmap webpage using SharePoint and MS Project, enhancing management's ability to assign ownership and track progress.
+### FMX — Software Developer Intern
 
----
+* Developed a Python-based network diagram generation platform capable of producing physical and logical diagrams for 200+ office locations in under 45 minutes.
+* Modernized Kubernetes operator infrastructure by migrating services across Python versions and redesigning concurrency models, reducing compute utilization by 30%.
 
-## Projects and Extracurriculars
+### SUNY Plattsburgh Center for Cybersecurity and Technology
 
-### Center for Cybersecurity and Technology - Cybersecurity Internship
-**Jan 2024 - May 2024**
-- Designed and implemented an internal website featuring a change log, documentation upload, and project calendar using Flask, SQLite, JavaScript, HTML, and CSS.
-- Hosted technical workshops to educate students on various technology topics, successfully recruiting new members to the organization.
-- Deployed honeypots on a DMZ configured with PFSense, analyzing Docker logs in an ELK stack and integrating Prometheus and Grafana for real-time monitoring.
+**Student Co-Director**
 
-### SecureScape - School Project
-- Led the development of a desktop application built on Electron.js with a Python backend, scanning networks, identifying open ports, generating dynamic network diagrams, and creating PDF status reports.
-- Acted as project manager, responsible for weekly status reports and team discussions, fostering collaboration and innovation.
+* Led workshops covering Linux, Git, containerization, and practical software engineering.
+* Managed on-premises infrastructure including firewalls, switching, remote access systems, and server administration.
 
----
+## Featured Projects
+
+### Distributed Honeynet Research Platform
+
+Designed and implemented a distributed cybersecurity research platform using custom SSH and HTTP honeypots, Kubernetes, ELK, Prometheus, and Python.
+
+Key outcomes:
+
+* Generated actionable threat intelligence from real-world attack telemetry.
+* Identified attacker geolocations and credential-stuffing patterns.
+* Observed and analyzed repeated botnet installation attempts targeting exposed SSH services.
+* Presented project findings at the 6th Annual North Country Cybersecurity Conference.
+
+### Personal Website
+
+A cloud-hosted portfolio platform running on AWS.
+
+Features:
+
+* Docker-based deployment pipeline
+* GitHub Actions CI/CD
+* Nginx reverse proxy
+* Cloudflare DNS and traffic management
+
+## Technologies
+
+**Languages**
+
+Python • C • JavaScript • TypeScript • Java • SQL
+
+**Infrastructure**
+
+Linux • Docker • Kubernetes • AWS • Git • Nginx
+
+**Development**
+
+Flask • Node.js • REST APIs • PostgreSQL • SQLite
+
+**Observability & Operations**
+
+Prometheus • ELK Stack • eBPF
 
 ## Education
 
-**SUNY Plattsburgh**  
-**BS in Management Information Systems** | Minor in Computer Science  
-**Aug 2021 - Expected May 2025**  
-Cumulative GPA: 3.7  
-*Dean's List for 6 consecutive semesters*
+**State University of New York at Plattsburgh**
 
----
+B.S. Management Information Systems
+Minor in Computer Science
 
-## Skills
-- **Programming Languages**: HTML/CSS, Python, JavaScript, R, Java
-- **Frameworks & Libraries**: Flask, PostgreSQL, SQLite, Docker, Kubernetes, Ansible
-- **Tools & Technologies**: Apache2, Linux, Jinja2, Bash, PowerShell
+Graduated May 2025
 
----
+## Connect
 
-Feel free to explore my projects and connect with me on LinkedIn or GitHub!
+Portfolio: christianbates.org
+
+LinkedIn: linkedin.com/in/christianbates02
+
+GitHub: github.com/cjbates02
